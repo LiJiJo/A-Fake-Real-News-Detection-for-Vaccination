@@ -5,6 +5,9 @@ The datasets collected and compiled for the experiment are located inside Cap2Da
 
 Metadata of Domain-Specific Corpus and Main Covid-19 Dataset
 •	Title: Headlines of the articles/posts in the dataset. Not all datasets have this.
+
 •	Content: The main content of the dataset. Typically containing the large text of strings
+
 •	Source: Where the news/information came from. “Articles” or “Social Media”
+
 •	Label: 1 denotes that the news is factual and 0 denotes the news is fake.
